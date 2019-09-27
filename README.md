@@ -55,12 +55,14 @@ script:   https://cdn.pannellum.org/2.4/pannellum.js
 
 ## Quizze
 
-Was kommt hier rein.
+Question
 
-  [[solution]]
+  [[solution]] Option 1
+  [[ ]] Option 2
 
 Was ist die einzige Möglichkeit?
 
+    
     [( )] This is XXX.
     [(X)] The only correct option.
     [( )] Still not right.
