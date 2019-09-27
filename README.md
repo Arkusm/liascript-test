@@ -1,9 +1,8 @@
 ## Quizze
 
-Question
+Was kommt hier rein.
 
-    [[X]] Option 1
-    [[ ]] Option 2
+  [[solution]]
 
 Was ist die einzige Möglichkeit?
 
