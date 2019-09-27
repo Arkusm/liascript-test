@@ -1,19 +1,13 @@
 ## Quizze
 
-Was kommt hier rein.
+Eine Frage, drei Optionen (Multiple)
 
-  [[solution]]
+    [[X]] Option 1
+    [[ ]] Option 2
+    [[X]] Option 3
 
-Was ist die einzige Möglichkeit?
+Single Choice
 
-    [( )] This is XXX.
-    [(X)] The only correct option.
-    [( )] Still not right.
-    [( )] Auch nicht richtig.
-    [[?]] *enter your hint*
-    [[?]] hilfe 2
-    ****************************************
-
-    Add a solution explanation __Markdown__!
-
-    ****************************************
+    [(X)] Nur das ist richtig
+    [( )] Falsch
+    [( )] Falsch
