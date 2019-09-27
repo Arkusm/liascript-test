@@ -2,7 +2,7 @@
 
 Question
 
-    [[solution]] Option 1
+    [[X]] Option 1
     [[ ]] Option 2
 
 Was ist die einzige Möglichkeit?
