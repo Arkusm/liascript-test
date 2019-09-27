@@ -4,7 +4,7 @@ This is a simple liascript test
 
 ## Quizze
 
-Eine Frage, drei Optionen (Multiple)
+Multiple Choice
 
     [[X]] Option 1.
     [[ ]] Option 2.
@@ -12,6 +12,6 @@ Eine Frage, drei Optionen (Multiple)
 
 Single Choice
 
-    [(X)] Nur das ist richtig.
-    [( )] Falsch.
-    [( )] Falsch.
+    [(X)] Right.
+    [( )] Wrong.
+    [( )] Wrong.
