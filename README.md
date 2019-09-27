@@ -7,7 +7,6 @@ Question
 
 Was ist die einzige Möglichkeit?
 
-    
     [( )] This is XXX.
     [(X)] The only correct option.
     [( )] Still not right.
